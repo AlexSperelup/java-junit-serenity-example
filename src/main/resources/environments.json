@@ -1,0 +1,16 @@
+[
+  {
+    "name":"QA",
+    "properties": {
+      "DUCK_SEARCH" : "https://duckduckgo.com/",
+      "SWISSCOWS_SEARCH" : "https://swisscows.com/"
+    }
+  },
+  {
+    "name":"PROD",
+    "properties": {
+      "DUCK_SEARCH" : "https://duckduckgo.com/",
+      "SWISSCOWS_SEARCH" : "https://swisscows.com/"
+    }
+  }
+]

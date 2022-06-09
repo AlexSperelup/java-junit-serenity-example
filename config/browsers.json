@@ -1,0 +1,14 @@
+{
+    "chrome": {
+        "default": "90.0",
+        "versions": {
+            "90.0": {
+                "image": "selenoid/vnc:chrome_101.0",
+                "port": "4444",
+                "path": "/",
+                "shmSize" : 402653184,
+                "mem" : "1024m"
+            }
+        }
+    }
+}
